@@ -1,0 +1,34 @@
+# Archivos y carpetas generados por NetBeans
+nbproject/private/
+nbproject/Makefile-*
+build/
+dist/
+.nb-gradle/
+
+# Archivos generados por el compilador de Java
+*.class
+
+# Archivos de configuración específicos del sistema
+*.log
+hs_err_pid*
+
+# Archivos relacionados con el control de versiones de NetBeans
+.netbeans-derby/
+
+# Configuraciones de entorno
+.DS_Store
+Thumbs.db
+
+# Archivos de Eclipse (por si también utilizas Eclipse)
+.classpath
+.project
+.settings/
+
+# Archivos de IntelliJ IDEA (si utilizas varias IDEs)
+.idea/
+*.iml
+out/
+
+# Archivos de Gradle (si es un proyecto Gradle)
+.gradle/
+build/
